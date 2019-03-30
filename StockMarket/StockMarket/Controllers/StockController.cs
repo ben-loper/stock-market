@@ -12,5 +12,10 @@ namespace StockMarket.Controllers
         {
             return View();
         }
+
+        public IActionResult Portfolio()
+        {
+            return View();
+        }
     }
 }
