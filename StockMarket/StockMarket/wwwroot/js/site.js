@@ -2,14 +2,3 @@
 // for details on configuring this project to bundle and minify static web assets.
 
 // Write your JavaScript code.
-const submitButton = document.getElementById('submit');
-
-function updateTable() {
-
-}
-
-
-submitButton.addEventListener('click', (event) => {
-    event.preventDefault();
-    event.updateTable();
-});
