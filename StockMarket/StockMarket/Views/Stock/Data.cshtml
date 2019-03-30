@@ -1,0 +1,33 @@
+﻿@section Title{
+    Data
+}
+<h2>Data</h2>
+
+<form>
+    <input type="text" placeholder="AAPL" />
+    <span>Ticker Symbol (ex: "AAPL")</span>
+
+    <input type="date" />
+    <span>Date</span>
+
+    <div>
+        <input type="submit" id="submit" class="btn btn-default" />
+    </div>
+</form>
+
+<table class="table">
+    <tr>
+        <th>Open</th>
+        <th>High</th>
+        <th>Low</th>
+        <th>Close</th>
+        <th>Volume</th>
+    </tr>
+    <tr>
+        @*<td></td>*@
+    </tr>
+</table>
+
+@section Scripts {
+    <script src="~/js/Data.js"></script>
+}

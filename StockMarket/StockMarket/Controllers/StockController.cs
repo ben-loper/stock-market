@@ -17,5 +17,10 @@ namespace StockMarket.Controllers
         {
             return View();
         }
+
+        public IActionResult Data()
+        {
+            return View();
+        }
     }
 }
