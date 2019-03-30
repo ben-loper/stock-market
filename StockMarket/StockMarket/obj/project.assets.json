@@ -12530,23 +12530,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jwunderle\\.nuget\\packages\\": {},
+    "C:\\Users\\bloper\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\Side Project\\stock-market\\StockMarket\\StockMarket\\StockMarket.csproj",
+      "projectUniqueName": "C:\\workspace\\Side Projects\\stock-market\\StockMarket\\StockMarket\\StockMarket.csproj",
       "projectName": "StockMarket",
-      "projectPath": "C:\\workspace\\Side Project\\stock-market\\StockMarket\\StockMarket\\StockMarket.csproj",
-      "packagesPath": "C:\\Users\\jwunderle\\.nuget\\packages\\",
-      "outputPath": "C:\\workspace\\Side Project\\stock-market\\StockMarket\\StockMarket\\obj\\",
+      "projectPath": "C:\\workspace\\Side Projects\\stock-market\\StockMarket\\StockMarket\\StockMarket.csproj",
+      "packagesPath": "C:\\Users\\bloper\\.nuget\\packages\\",
+      "outputPath": "C:\\workspace\\Side Projects\\stock-market\\StockMarket\\StockMarket\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\jwunderle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bloper\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

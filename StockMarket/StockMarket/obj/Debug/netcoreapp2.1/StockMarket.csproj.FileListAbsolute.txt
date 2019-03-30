@@ -90,4 +90,8 @@ C:\workspace\Side Project\stock-market\StockMarket\StockMarket\obj\Debug\netcore
 C:\workspace\Side Project\stock-market\StockMarket\StockMarket\obj\Debug\netcoreapp2.1\StockMarket.csproj.CopyComplete
 C:\workspace\Side Project\stock-market\StockMarket\StockMarket\obj\Debug\netcoreapp2.1\Razor\Views\Stock\Portfolio.g.cshtml.cs
 C:\workspace\Side Projects\stock-market\StockMarket\StockMarket\obj\Debug\netcoreapp2.1\Razor\Views\Stock\Portfolio.g.cshtml.cs
+<<<<<<< HEAD
 C:\workspace\Side Project\stock-market\StockMarket\StockMarket\obj\Debug\netcoreapp2.1\Razor\Views\Stock\Data.g.cshtml.cs
+=======
+C:\workspace\Side Projects\stock-market\StockMarket\StockMarket\obj\Debug\netcoreapp2.1\Razor\Views\Stock\Data.g.cshtml.cs
+>>>>>>> e8cb91a5d80b5f99abd94f5feafdb920531005f6
