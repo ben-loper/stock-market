@@ -11800,11 +11800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jwunderle\\source\\repos\\StockMarket\\StockMarket\\StockMarket.csproj",
+      "projectUniqueName": "C:\\workspace\\Side Project\\stock-market\\StockMarket\\StockMarket\\StockMarket.csproj",
       "projectName": "StockMarket",
-      "projectPath": "C:\\Users\\jwunderle\\source\\repos\\StockMarket\\StockMarket\\StockMarket.csproj",
+      "projectPath": "C:\\workspace\\Side Project\\stock-market\\StockMarket\\StockMarket\\StockMarket.csproj",
       "packagesPath": "C:\\Users\\jwunderle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jwunderle\\source\\repos\\StockMarket\\StockMarket\\obj\\",
+      "outputPath": "C:\\workspace\\Side Project\\stock-market\\StockMarket\\StockMarket\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
