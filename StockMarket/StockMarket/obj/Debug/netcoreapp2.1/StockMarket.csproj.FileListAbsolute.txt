@@ -89,3 +89,4 @@ C:\workspace\Side Project\stock-market\StockMarket\StockMarket\obj\Debug\netcore
 C:\workspace\Side Project\stock-market\StockMarket\StockMarket\obj\Debug\netcoreapp2.1\StockMarket.pdb
 C:\workspace\Side Project\stock-market\StockMarket\StockMarket\obj\Debug\netcoreapp2.1\StockMarket.csproj.CopyComplete
 C:\workspace\Side Project\stock-market\StockMarket\StockMarket\obj\Debug\netcoreapp2.1\Razor\Views\Stock\Portfolio.g.cshtml.cs
+C:\workspace\Side Projects\stock-market\StockMarket\StockMarket\obj\Debug\netcoreapp2.1\Razor\Views\Stock\Portfolio.g.cshtml.cs
