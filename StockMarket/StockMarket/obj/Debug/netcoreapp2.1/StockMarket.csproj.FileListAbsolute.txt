@@ -28,3 +28,4 @@ C:\workspace\Side Projects\stock-market\StockMarket\StockMarket\obj\Debug\netcor
 C:\workspace\Side Projects\stock-market\StockMarket\StockMarket\obj\Debug\netcoreapp2.1\StockMarket.dll
 C:\workspace\Side Projects\stock-market\StockMarket\StockMarket\obj\Debug\netcoreapp2.1\StockMarket.pdb
 C:\workspace\Side Projects\stock-market\StockMarket\StockMarket\obj\Debug\netcoreapp2.1\StockMarket.csproj.CopyComplete
+C:\workspace\Side Projects\stock-market\StockMarket\StockMarket\obj\Debug\netcoreapp2.1\StockMarket.csprojAssemblyReference.cache

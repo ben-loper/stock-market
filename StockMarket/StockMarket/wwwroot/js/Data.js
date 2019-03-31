@@ -31,6 +31,8 @@ function getStockInfo() {
 
              const tableNode = document.getElementById('dataTable');
 
+             const tableBody = tableNode.childNodes[3];
+
              const tableRowNode = document.createElement('tr');
 
              const stockSymbol = jsonObject.symbol;
@@ -70,7 +72,7 @@ function getStockInfo() {
     
              
              // Attach the table row to the table
-             tableNode.insertAdjacentElement('beforeend', tableRowNode);
+             tableBody.insertAdjacentElement('beforeend', tableRowNode);
          });
 }
 
