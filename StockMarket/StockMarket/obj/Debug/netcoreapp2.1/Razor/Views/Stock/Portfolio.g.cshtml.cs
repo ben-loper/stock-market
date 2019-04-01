@@ -65,7 +65,7 @@ using StockMarket.Models;
             WriteLiteral("\r\n\r\n<h2>Portfolio</h2>\r\n\r\n");
             EndContext();
             BeginContext(65, 407, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0aa6494934b04e05a271cc03a0511eee", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "51c4510dbc304b1bb9b9f14a34d1ba63", async() => {
                 BeginContext(71, 394, true);
                 WriteLiteral(@"
     <input type=""text"" placeholder=""AAPL"" />
@@ -110,7 +110,7 @@ using StockMarket.Models;
                 WriteLiteral("\r\n    ");
                 EndContext();
                 BeginContext(745, 41, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "958e4cd4bf8249d2a2b50a7374cdc90a", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "eef7df93a6324d0e8f02989cc9b9ba38", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
