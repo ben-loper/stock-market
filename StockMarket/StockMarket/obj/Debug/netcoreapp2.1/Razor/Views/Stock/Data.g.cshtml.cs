@@ -62,7 +62,7 @@ using StockMarket.Models;
             WriteLiteral("<h2>Data</h2>\r\n\r\n");
             EndContext();
             BeginContext(47, 252, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4e38487a86de4ca0b4a67351e7a94dd8", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c0ae0d97f6c944e69a05be6a22408b32", async() => {
                 BeginContext(53, 239, true);
                 WriteLiteral("\r\n    <input type=\"text\" placeholder=\"AAPL\" />\r\n    <span>Ticker Symbol (ex: \"AAPL\")</span>\r\n\r\n    <input type=\"date\" />\r\n    <span>Date</span>\r\n\r\n    <div>\r\n        <input type=\"submit\" id=\"submit\" class=\"btn btn-default\" />\r\n    </div>\r\n");
                 EndContext();
@@ -107,7 +107,7 @@ using StockMarket.Models;
                 WriteLiteral("\r\n    ");
                 EndContext();
                 BeginContext(669, 36, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "509b436c8a014b38927f632eddd93da4", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "34a6c27206fe4036add08aa935f9bd08", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
