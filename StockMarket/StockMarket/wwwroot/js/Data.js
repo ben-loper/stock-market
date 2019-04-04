@@ -10,8 +10,15 @@
 
 
 
+
+
 function getStockInfo() {
-     fetch('/js/dummy-data.json')
+    const symbolInput = document.getElementById('symbol').value;
+    const dateInput = document.getElementById('date').value;
+
+
+    fetch(`https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=${symbolInput}&apikey=V8392HVZ3MRY8A4V`)
+     //fetch('/js/dummy-data.json')
         .then((res) => {
             return res.json();
         })
@@ -19,11 +26,13 @@ function getStockInfo() {
 
              const stockInfo = {}
 
-             stockInfo.symbol = myJson["Meta Data"]["2. Symbol"];
+             //stockInfo.symbol = myJson["Meta Data"]["2. Symbol"];
+             stockInfo.symbol = symbolInput;
 
-             stockInfo.date = "2018-11-02";
+             stockInfo.date = dateInput;
 
-             stockInfo.financialInfo = myJson["Time Series (Daily)"]["2018-11-02"];
+             //stockInfo.financialInfo = myJson["Time Series (Daily)"]["2018-11-02"];
+             stockInfo.financialInfo = myJson["Time Series (Daily)"][`${dateInput}`];
 
              return stockInfo;
          })
